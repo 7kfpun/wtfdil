@@ -6,6 +6,7 @@ import sys
 
 
 def main(username, password):
+    """Main."""
     basic_auth = HTTPBasicAuth(username, password)
     starred_repos = {}
     page = 0
@@ -52,13 +53,31 @@ def main(username, password):
 
 if __name__ == '__main__':
     with open('README.md', 'w') as file:
-        file.write("# wtfdil\n\nWhat the F*** did I learn?\n\n")
+        file.write("""# wtfdil
+
+What the F*** did I learn?
+
+## Usage
+
+```bash
+pip install requests
+python wtfdil.py `username` `password`
+```
+
+""")
 
     with open('README.md', 'a') as file:
-        group_repos = main(sys.argv[1], sys.argv[2])
+        if (len(sys.argv) < 3):
+            username = raw_input('Enter GitHub username or email: ')
+            password = raw_input('Enter password: ')
+        else:
+            username = sys.argv[1]
+            password = sys.argv[2]
+
+        group_repos = main(username, password)
         for key, group in group_repos:
             language = key if key else 'Others'
-            file.write("## {}\n\n".format(language))
+            file.write("### {}\n\n".format(language))
             for repo in group:
                 text = u'* [{}]({}) {}\n'.format(
                     repo['full_name'],
