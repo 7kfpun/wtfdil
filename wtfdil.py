@@ -12,7 +12,6 @@ def main(username, password):
     page = 0
     while True:
         starred_url = 'https://api.github.com/users/{}/starred?page={}'
-        language_url = 'https://api.github.com/repos/{}/languages'
 
         response = requests.get(
             starred_url.format(username, page),
@@ -33,15 +32,6 @@ def main(username, password):
             print(text)
 
             starred_repos[star['full_name']] = star
-
-            language_response = requests.get(
-                language_url.format(star['full_name']),
-                auth=basic_auth,
-            )
-
-            if language_response.status_code != 200 or language_response.content == '[]':  # noqa
-                print(language_response.content)
-                starred_repos[star['full_name']]['language'] = json.loads(language_response.content)  # noqa
 
         page = page + 1
 
@@ -78,8 +68,9 @@ python wtfdil.py `username` `password`
         for key, group in group_repos:
             language = key if key else 'Others'
             file.write("### {}\n\n".format(language))
-            for repo in group:
-                text = u'* [{}]({}) {}\n'.format(
+            for repo in sorted(group, key=lambda x: x['stargazers_count'], reverse=True):
+                text = u'* {} [{}]({}) {}\n'.format(
+                    ':zap:' * (repo['stargazers_count'] / 5000),
                     repo['full_name'],
                     repo['html_url'],
                     repo['description'],
