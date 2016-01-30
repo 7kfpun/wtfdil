@@ -9,6 +9,37 @@ pip install requests
 python wtfdil.py `username` `password`
 ```
 
+## Statistics
+
+| Language | number of repos |
+|----------|-----------------|
+| Others | :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: |
+| Batchfile | :white_medium_small_square: |
+| C | :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: |
+| C++ | :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: |
+| CSS | :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: |
+| Clojure | :white_medium_small_square: |
+| CoffeeScript | :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: |
+| Go | :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: |
+| Groovy | :white_medium_small_square: |
+| HTML | :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: |
+| Java | :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: |
+| JavaScript | :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: |
+| Julia | :white_medium_small_square: |
+| Jupyter Notebook | :white_medium_small_square: |
+| Lua | :white_medium_small_square: |
+| Makefile | :white_medium_small_square: |
+| OCaml | :white_medium_small_square::white_medium_small_square: |
+| Objective-C | :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: |
+| PHP | :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: |
+| Perl | :white_medium_small_square: |
+| Python | :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: |
+| Ruby | :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: |
+| Scala | :white_medium_small_square: |
+| Shell | :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: |
+| Swift | :white_medium_small_square::white_medium_small_square::white_medium_small_square: |
+| TypeScript | :white_medium_small_square: |
+| VimL | :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: |
 ### Others
 
 * :zap::zap::zap::zap::zap::zap::zap: [nodejs/node-v0.x-archive](https://github.com/nodejs/node-v0.x-archive) Moved to https://github.com/nodejs/node
@@ -20,8 +51,8 @@ python wtfdil.py `username` `password`
 * :zap::zap: [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) :books: List of awesome university courses for learning Computer Science!
 * :zap::zap: [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) A curated list of awesome Android UI/UX libraries
 * :zap::zap: [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) A curated list of delightful Node.js packages and resources.
-* :zap: [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interviews) :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
-* :zap: [phuslu/goagent](https://github.com/phuslu/goagent) 
+* :zap: [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interviews) :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
+* :zap: [phuslu/goagent](https://github.com/phuslu/goagent)
 * :zap: [herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) Use your OS X terminal shell to do awesome things.
 * :zap: [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 *  [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) Docker Cheat Sheet
@@ -42,12 +73,12 @@ python wtfdil.py `username` `password`
 
 ### Batchfile
 
-* :zap: [kennethreitz/python-guide](https://github.com/kennethreitz/python-guide) Python best practices guidebook, written for Humans. 
+* :zap: [kennethreitz/python-guide](https://github.com/kennethreitz/python-guide) Python best practices guidebook, written for Humans.
 
 ### C
 
 * :zap: [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) A code-searching tool similar to ack, but faster.
-*  [facebook/watchman](https://github.com/facebook/watchman) Watches files and records, or triggers actions, when they change. 
+*  [facebook/watchman](https://github.com/facebook/watchman) Watches files and records, or triggers actions, when they change.
 *  [facebook/css-layout](https://github.com/facebook/css-layout) Reimplementation of CSS layout using pure JavaScript
 *  [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files.
 *  [giampaolo/psutil](https://github.com/giampaolo/psutil) A cross-platform process and system utilities module for Python
@@ -59,7 +90,7 @@ python wtfdil.py `username` `password`
 * :zap::zap::zap: [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) Computation using data flow graphs for scalable machine learning
 *  [facebook/rocksdb](https://github.com/facebook/rocksdb) A library that provides an embeddable, persistent key-value store for fast storage.
 *  [bjorn/tiled](https://github.com/bjorn/tiled) A generic tile map editor
-*  [crosswalk-project/crosswalk](https://github.com/crosswalk-project/crosswalk) 
+*  [crosswalk-project/crosswalk](https://github.com/crosswalk-project/crosswalk)
 *  [AGWA/git-crypt](https://github.com/AGWA/git-crypt) Transparent file encryption in git
 
 ### CSS
@@ -117,7 +148,7 @@ python wtfdil.py `username` `password`
 *  [addyosmani/grunt-uncss](https://github.com/addyosmani/grunt-uncss) :scissors: A grunt task for removing unused CSS from your projects.
 *  [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) A jazzy skin for the Django Admin-Interface (official repository).
 *  [deanmalmgren/textract](https://github.com/deanmalmgren/textract) extract text from any document. no muss. no fuss.
-*  [ericdrowell/BigOCheatSheet](https://github.com/ericdrowell/BigOCheatSheet) 
+*  [ericdrowell/BigOCheatSheet](https://github.com/ericdrowell/BigOCheatSheet)
 *  [ianare/django-memcache-admin](https://github.com/ianare/django-memcache-admin) Memcache administration tools for Django.
 
 ### Java
@@ -154,7 +185,7 @@ python wtfdil.py `username` `password`
 *  [jprante/elasticsearch-jdbc](https://github.com/jprante/elasticsearch-jdbc) JDBC importer for Elasticsearch
 *  [markushi/android-circlebutton](https://github.com/markushi/android-circlebutton) Circle button widget for Android
 *  [kikoso/Swipeable-Cards](https://github.com/kikoso/Swipeable-Cards) A native library providing a Tinder-like cards effect. A card can be constructed using an image and displayed with animation effects, dismiss-to-like and dismiss-to-unlike, and use different sorting mechanisms.
-*  [Yalantis/Taurus](https://github.com/Yalantis/Taurus) A little more fun for the pull-to-refresh interaction. 
+*  [Yalantis/Taurus](https://github.com/Yalantis/Taurus) A little more fun for the pull-to-refresh interaction.
 *  [antonkrasov/AndroidSocialNetworks](https://github.com/antonkrasov/AndroidSocialNetworks) Library for easy work with Facebook, Twitter, LinkedIn and Google on Android
 *  [hoang8f/android-flat-button](https://github.com/hoang8f/android-flat-button) FButton - a flat button library for Android
 *  [ppamorim/Dragger](https://github.com/ppamorim/Dragger) Animate your activity!
@@ -168,17 +199,17 @@ python wtfdil.py `username` `password`
 *  [naver/android-pull-to-refresh](https://github.com/naver/android-pull-to-refresh) Pull To Refresh Views for Android! v3.2.3
 *  [mg6maciej/android-maps-extensions](https://github.com/mg6maciej/android-maps-extensions) Android Maps Extensions is a library extending capabilities of Google Maps Android API v2.
 *  [flavienlaurent/singleinputform](https://github.com/flavienlaurent/singleinputform) A single EditText instead of a classical form.
-*  [awslabs/amazon-kinesis-connectors](https://github.com/awslabs/amazon-kinesis-connectors) 
+*  [awslabs/amazon-kinesis-connectors](https://github.com/awslabs/amazon-kinesis-connectors)
 *  [JesusM/HoloCircleSeekBar](https://github.com/JesusM/HoloCircleSeekBar) Android circle seekbar widget inspired from: https://github.com/LarsWerkman/HoloColorPicker
 *  [GoogleCloudPlatform/appengine-endpoints-tictactoe-android](https://github.com/GoogleCloudPlatform/appengine-endpoints-tictactoe-android) A simple client for a Tic Tac Toe game using Google Cloud Endpoints and Android.
 *  [rt2zz/react-native-contacts](https://github.com/rt2zz/react-native-contacts) React Native Contacts
 *  [Neson/react-native-system-notification](https://github.com/Neson/react-native-system-notification) Android system notifications for React Native. Supports push notifications with GCM integrated.
-*  [EstebanFuentealba/react-native-share](https://github.com/EstebanFuentealba/react-native-share) Share Social , Sending Simple Data to Other Apps 
+*  [EstebanFuentealba/react-native-share](https://github.com/EstebanFuentealba/react-native-share) Share Social , Sending Simple Data to Other Apps
 *  [pusherman/react-native-network-info](https://github.com/pusherman/react-native-network-info) React Native library for getting information about the devices network
 *  [sbugert/react-native-admob](https://github.com/sbugert/react-native-admob) A react-native component for Google AdMob banners
 *  [mihirsoni/react-native-android-speech](https://github.com/mihirsoni/react-native-android-speech) This simple React Native module for Android Text To Speech functionality.
-*  [inProgress-team/react-native-orientation-controller](https://github.com/inProgress-team/react-native-orientation-controller) 
-*  [idehub/react-native-billing](https://github.com/idehub/react-native-billing) 
+*  [inProgress-team/react-native-orientation-controller](https://github.com/inProgress-team/react-native-orientation-controller)
+*  [idehub/react-native-billing](https://github.com/idehub/react-native-billing)
 
 ### JavaScript
 
@@ -246,7 +277,7 @@ python wtfdil.py `username` `password`
 * :zap: [n1k0/casperjs](https://github.com/n1k0/casperjs) Navigation scripting & testing utility for PhantomJS and SlimerJS
 * :zap: [aurelia/framework](https://github.com/aurelia/framework) The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform.
 * :zap: [Mango/slideout](https://github.com/Mango/slideout) A touch slideout navigation menu for your mobile web apps.
-* :zap: [petehunt/webpack-howto](https://github.com/petehunt/webpack-howto) 
+* :zap: [petehunt/webpack-howto](https://github.com/petehunt/webpack-howto)
 *  [CreateJS/EaselJS](https://github.com/CreateJS/EaselJS) The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.
 *  [jscs-dev/node-jscs](https://github.com/jscs-dev/node-jscs) JavaScript Code Style checker
 *  [highcharts/highcharts](https://github.com/highcharts/highcharts) Highcharts JS, the JavaScript charting framework
@@ -280,7 +311,7 @@ python wtfdil.py `username` `password`
 *  [voronianski/jquery.avgrund.js](https://github.com/voronianski/jquery.avgrund.js) Avgrund is a jQuery plugin with new modal concept for popups
 *  [nodegit/nodegit](https://github.com/nodegit/nodegit) Native Node bindings to Git.
 *  [iSimar/HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) Hacker News iOS and Android App - Made with React Native.
-*  [linuxmint/Cinnamon](https://github.com/linuxmint/Cinnamon) A Linux Desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features. 
+*  [linuxmint/Cinnamon](https://github.com/linuxmint/Cinnamon) A Linux Desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
 *  [angular-ui/ui-utils](https://github.com/angular-ui/ui-utils) Deprecated collection of modules for angular
 *  [bucaran/fly](https://github.com/bucaran/fly) New Generation Build System
 *  [yeoman/yo](https://github.com/yeoman/yo) CLI tool for running Yeoman generators
@@ -321,7 +352,7 @@ python wtfdil.py `username` `password`
 *  [dylang/npm-check](https://github.com/dylang/npm-check) Check for outdated, incorrect, and unused dependencies.
 *  [plus3network/gulp-less](https://github.com/plus3network/gulp-less) A LESS plugin for Gulp
 *  [7kfpun/FinanceReactNative](https://github.com/7kfpun/FinanceReactNative) iOS's Stocks App clone written in React Native for demo purpose (available both iOS and Android).
-*  [aksonov/react-native-router-flux](https://github.com/aksonov/react-native-router-flux) iOS/Android React Native Router based on exNavigator 
+*  [aksonov/react-native-router-flux](https://github.com/aksonov/react-native-router-flux) iOS/Android React Native Router based on exNavigator
 *  [firebase/reactfire](https://github.com/firebase/reactfire) ReactJS mixin for easy Firebase integration
 *  [asafdav/ng-csv](https://github.com/asafdav/ng-csv) Simple directive that turns arrays and objects into downloadable CSV files
 *  [seegno/angular-oauth2](https://github.com/seegno/angular-oauth2) AngularJS OAuth2
@@ -363,7 +394,7 @@ python wtfdil.py `username` `password`
 *  [benlau/ihatecontentfarms](https://github.com/benlau/ihatecontentfarms) Content Farm Blocker
 *  [guzart/gulp-ng-constant](https://github.com/guzart/gulp-ng-constant) Gulp plugin for dynamic generation of angular constant modules.
 *  [jaysoo/react-native-parallax-scroll-view](https://github.com/jaysoo/react-native-parallax-scroll-view) A ScrollView-like component with parallax and sticky header support.
-*  [Nekle/greader](https://github.com/Nekle/greader) An Collector/Reader for readme documentations of Github repos 
+*  [Nekle/greader](https://github.com/Nekle/greader) An Collector/Reader for readme documentations of Github repos
 *  [reactjs/react-timer-mixin](https://github.com/reactjs/react-timer-mixin) TimerMixin provides timer functions for executing code in the future that are safely cleaned up when the component unmounts
 *  [kkjdaniel/react-native-device-display](https://github.com/kkjdaniel/react-native-device-display) Allowing the creation of adaptable and universal apps
 *  [dskang/webtimer](https://github.com/dskang/webtimer) Chrome extension to keep track of time usage on web sites
@@ -429,7 +460,7 @@ python wtfdil.py `username` `password`
 
 ### PHP
 
-* :zap: [piwik/piwik](https://github.com/piwik/piwik) Liberating Web Analytics. Star us on Github? +1. Piwik is the leading open alternative to Google Analytics that gives you full control over your data. Piwik lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests! 
+* :zap: [piwik/piwik](https://github.com/piwik/piwik) Liberating Web Analytics. Star us on Github? +1. Piwik is the leading open alternative to Google Analytics that gives you full control over your data. Piwik lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
 *  [WP-API/WP-API](https://github.com/WP-API/WP-API) WP REST API - a JSON-based REST API for WordPress.
 *  [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) PrestaShop offers a free, fully scalable, Open Source e-commerce solution.
 *  [Automattic/amp-wp](https://github.com/Automattic/amp-wp) WordPress plugin for adding AMP support
@@ -461,7 +492,7 @@ python wtfdil.py `username` `password`
 *  [fxsjy/jieba](https://github.com/fxsjy/jieba) 结巴中文分词
 *  [nicolargo/glances](https://github.com/nicolargo/glances) Glances an Eye on your system
 *  [celery/celery](https://github.com/celery/celery) Distributed Task Queue (development branch)
-*  [spotify/luigi](https://github.com/spotify/luigi) Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. 
+*  [spotify/luigi](https://github.com/spotify/luigi) Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 *  [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) Turn (almost) any Python command line program into a full GUI application with one line
 *  [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) A minimal Ubuntu base image modified for Docker-friendliness
 *  [lebinh/ngxtop](https://github.com/lebinh/ngxtop) Real-time metrics for nginx server
@@ -473,9 +504,9 @@ python wtfdil.py `username` `password`
 *  [google/yapf](https://github.com/google/yapf) A formatter for Python files
 *  [quantopian/zipline](https://github.com/quantopian/zipline) Zipline, a Pythonic Algorithmic Trading Library
 *  [crsmithdev/arrow](https://github.com/crsmithdev/arrow) Better dates & times for Python
-*  [codelucas/newspaper](https://github.com/codelucas/newspaper) News, full-text, and article metadata extraction in Python 3 
+*  [codelucas/newspaper](https://github.com/codelucas/newspaper) News, full-text, and article metadata extraction in Python 3
 *  [nvie/rq](https://github.com/nvie/rq) Simple job queues for Python
-*  [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) This is a repository for collecting global custom management extensions for the Django Framework. 
+*  [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) This is a repository for collecting global custom management extensions for the Django Framework.
 *  [taigaio/taiga-back](https://github.com/taigaio/taiga-back) Project management web application with scrum in mind! Built on top of Django and AngularJS (Backend Code)
 *  [gevent/gevent](https://github.com/gevent/gevent) Coroutine-based concurrency library for Python
 *  [coleifer/peewee](https://github.com/coleifer/peewee) a small, expressive orm -- supports postgresql, mysql and sqlite
@@ -522,7 +553,7 @@ python wtfdil.py `username` `password`
 *  [gruns/furl](https://github.com/gruns/furl) URL manipulation made simple.
 *  [gawel/pyquery](https://github.com/gawel/pyquery) A jquery-like library for python
 *  [crossbario/crossbar](https://github.com/crossbario/crossbar) Crossbar.io - WAMP application router
-*  [dabeaz/curio](https://github.com/dabeaz/curio) 
+*  [dabeaz/curio](https://github.com/dabeaz/curio)
 *  [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode) Python QR Code image generator
 *  [KeepSafe/android-resource-remover](https://github.com/KeepSafe/android-resource-remover) A simple utility to remove unused resources in your Android app to lower the size of the APK. It's based on the Android lint tool output.
 *  [p-e-w/krill](https://github.com/p-e-w/krill) :newspaper: The hacker's way of keeping up with the world.
@@ -580,7 +611,7 @@ python wtfdil.py `username` `password`
 *  [wq/django-rest-pandas](https://github.com/wq/django-rest-pandas) Serves up your Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)
 *  [henriquebastos/python-decouple](https://github.com/henriquebastos/python-decouple) Strict separation of config from code.
 *  [django-money/django-money](https://github.com/django-money/django-money) Money fields for django forms and models.
-*  [aboSamoor/polyglot](https://github.com/aboSamoor/polyglot) Multilingual text (NLP) processing toolkit 
+*  [aboSamoor/polyglot](https://github.com/aboSamoor/polyglot) Multilingual text (NLP) processing toolkit
 *  [semente/django-smuggler](https://github.com/semente/django-smuggler) Django Smuggler is a pluggable application for Django Web Framework that helps you to import/export fixtures via the automatically-generated administration interface.
 *  [philippbosch/django-geoposition](https://github.com/philippbosch/django-geoposition) Django model field that can hold a geoposition, and corresponding widget
 *  [Supervisor/superlance](https://github.com/Supervisor/superlance) Superlance utilities for use with the Supervisor process control system
@@ -599,19 +630,19 @@ python wtfdil.py `username` `password`
 *  [bfirsh/django-ordered-model](https://github.com/bfirsh/django-ordered-model) Allows Django models to be ordered and provides a simple admin interface for reordering them.
 *  [MarioVilas/google](https://github.com/MarioVilas/google) Google search from Python.
 *  [jgorset/django-kronos](https://github.com/jgorset/django-kronos) Kronos makes it really easy to define and schedule tasks with cron
-*  [GoogleCloudPlatform/endpoints-proto-datastore](https://github.com/GoogleCloudPlatform/endpoints-proto-datastore) 
+*  [GoogleCloudPlatform/endpoints-proto-datastore](https://github.com/GoogleCloudPlatform/endpoints-proto-datastore)
 *  [digitalbazaar/pyld](https://github.com/digitalbazaar/pyld) JSON-LD processor written in Python
 *  [vklochan/python-logstash](https://github.com/vklochan/python-logstash) Python logging handler for Logstash.
 *  [mirumee/django-payments](https://github.com/mirumee/django-payments) Universal payment handling for Django
 *  [lukaszbanasiak/yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) Python module to get stock data from Yahoo! Finance
-*  [rtluckie/seria](https://github.com/rtluckie/seria) 
+*  [rtluckie/seria](https://github.com/rtluckie/seria)
 *  [mgedmin/objgraph](https://github.com/mgedmin/objgraph) Visually explore Python object graphs
 *  [svetlyak40wt/django-fields](https://github.com/svetlyak40wt/django-fields) Fields pack for django framework.
 *  [PhilipGarnero/django-rest-framework-social-oauth2](https://github.com/PhilipGarnero/django-rest-framework-social-oauth2) python-social-auth and oauth2 support for django-rest-framework
 *  [relekang/django-nopassword](https://github.com/relekang/django-nopassword) Authentication backend for django that uses a one time code instead of passwords
 *  [braintree/braintree_python](https://github.com/braintree/braintree_python) braintree python client library
 *  [EntilZha/ScalaFunctional](https://github.com/EntilZha/ScalaFunctional) Python library for creating working with data in a pipeline/LINQ/functional programming way
-*  [driftx/Telephus](https://github.com/driftx/Telephus) Telephus is a connection pooled, low-level client API for Cassandra in Twisted python. 
+*  [driftx/Telephus](https://github.com/driftx/Telephus) Telephus is a connection pooled, low-level client API for Cassandra in Twisted python.
 *  [ccollins/milkman](https://github.com/ccollins/milkman) Django model object generation - no more fixtures!
 *  [django-pylibmc/django-pylibmc](https://github.com/django-pylibmc/django-pylibmc) A cache backend for Django using pylibmc
 *  [zachwill/fred](https://github.com/zachwill/fred) Python wrapper for the St. Louis Fed's FRED API.
@@ -622,7 +653,7 @@ python wtfdil.py `username` `password`
 *  [aquach/vim-http-client](https://github.com/aquach/vim-http-client) Forget your curl today! Make HTTP requests from Vim without wrestling the command line!
 *  [pndurette/gTTS](https://github.com/pndurette/gTTS) Module and command line utility to save spoken text to mp3 via the Google Text to Speech (TTS) API
 *  [henriquebastos/django-test-without-migrations](https://github.com/henriquebastos/django-test-without-migrations) Django Test Without Migrations: Disable migrations when running your Django tests
-*  [wq/wq.db](https://github.com/wq/wq.db) ☁ wq's db library, extending Django REST framework and Mustache with database models to support design patterns common to field data collection systems for citizen science, crowdsourcing, and VGI. 
+*  [wq/wq.db](https://github.com/wq/wq.db) ☁ wq's db library, extending Django REST framework and Mustache with database models to support design patterns common to field data collection systems for citizen science, crowdsourcing, and VGI.
 *  [ansible-provisioning/workshop-provisioning](https://github.com/ansible-provisioning/workshop-provisioning) Ansible Provisioning workshop
 *  [timbertson/rednose](https://github.com/timbertson/rednose) pretty output formatter for python-nosetests
 *  [tito/rumps](https://github.com/tito/rumps) Ridiculously Uncomplicated Mac os x Python Statusbar apps
@@ -664,7 +695,7 @@ python wtfdil.py `username` `password`
 *  [airtonix/ansible-django](https://github.com/airtonix/ansible-django) django playbook
 *  [alestic/alestic-unreliable-town-clock](https://github.com/alestic/alestic-unreliable-town-clock) Alestic Unreliable Town Clock (UTC)
 *  [gideros/gideros-community-libs](https://github.com/gideros/gideros-community-libs) Gideros Open Community Libraries
-*  [harmattan/libthai](https://github.com/harmattan/libthai) 
+*  [harmattan/libthai](https://github.com/harmattan/libthai)
 
 ### Swift
 
@@ -678,7 +709,7 @@ python wtfdil.py `username` `password`
 
 ### VimL
 
-* :zap::zap::zap: [neovim/neovim](https://github.com/neovim/neovim) Vim-fork focused on extensibility and agility. Consider helping sustain Neovim development! 
+* :zap::zap::zap: [neovim/neovim](https://github.com/neovim/neovim) Vim-fork focused on extensibility and agility. Consider helping sustain Neovim development!
 * :zap: [scrooloose/syntastic](https://github.com/scrooloose/syntastic) Syntax checking hacks for vim
 *  [fatih/vim-go](https://github.com/fatih/vim-go) Go development plugin for Vim
 *  [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) True Sublime Text style multiple selections for Vim
@@ -703,4 +734,3 @@ python wtfdil.py `username` `password`
 *  [moskytw/nginx-contrib-vim](https://github.com/moskytw/nginx-contrib-vim) It's a clone of the vim directory in the offical nginx repository.
 *  [7kfpun/finance.vim](https://github.com/7kfpun/finance.vim) Simple plugin for checking your stock in Vim (Yahoo Finance).
 *  [7kfpun/pypi.vim](https://github.com/7kfpun/pypi.vim) Simple plugin for checking the latest version of the Python package in Vim.
-

@@ -65,15 +65,31 @@ python wtfdil.py `username` `password`
             password = sys.argv[2]
 
         group_repos = main(username, password)
+
+        statistics_string = """## Statistics
+
+| Language | number of repos |
+|----------|-----------------|
+"""
+        repos_string = ""
+
         for key, group in group_repos:
+            repos_sorted = sorted(group, key=lambda x: x['stargazers_count'], reverse=True)
+
             language = key if key else 'Others'
-            file.write("### {}\n\n".format(language))
-            for repo in sorted(group, key=lambda x: x['stargazers_count'], reverse=True):
-                text = u'* {} [{}]({}) {}\n'.format(
+            statistics_string += u'| {} | {} |\n'.format(
+                language, ':white_medium_small_square:' * len(repos_sorted)
+            ).encode('utf-8')
+            repos_string += "### {}\n\n".format(language)
+
+            for repo in repos_sorted:
+                repos_string += u'* {} [{}]({}) {}\n'.format(
                     ':zap:' * (repo['stargazers_count'] / 5000),
                     repo['full_name'],
                     repo['html_url'],
                     repo['description'],
                 ).encode('utf-8')
-                file.write(text)
-            file.write("\n")
+            repos_string += "\n"
+
+        file.write(statistics_string)
+        file.write(repos_string)
